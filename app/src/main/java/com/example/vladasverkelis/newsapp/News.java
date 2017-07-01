@@ -21,7 +21,7 @@ public class News {
     /**
      * * Constructs a new {@link News} object.
      *
-     * @param sectionName is the title of the article
+     * @param sectionName is the title of the section
      * @param title is the title of the article
      * @param time is the date of the article
      * @param url is the website URL to find more details about the news
@@ -60,8 +60,5 @@ public class News {
     public String getUrl(){
         return mUrl;
     }
-    /**
-     * Return the image resource ID of the news
-     */
 
 }
