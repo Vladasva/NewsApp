@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <!-- Text to display in the list when there are no news [CHAR LIMIT=NONE] -->
+    <string name="no_news">No news found.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings For Number of Articles Preference [CHAR LIMIT=30] -->
+    <string name="settings_number_of_articles_label">Number of articles</string>
+    <string name="settings_number_of_articles_key" translatable="false">query</string>
+    <string name="settings_number_of_articles_default" translatable="false">10</string>
+
+    <!-- Strings For Tags of Articles Preference [CHAR LIMIT=30] -->
+    <string name="setting_order_by_label">Order by</string>
+    <string name="setting_order_by_key" translatable="false">Order_by_key</string>
+    <string name="setting_order_by_default" translatable="false">@string/setting_order_by_tag_world_value</string>
+
+    <!--Label for order by theme world[CHAR LIMIT=20]-->
+    <string name="setting_order_by_tag_world_label">World</string>
+    <string name="setting_order_by_tag_world_value" translatable="false">world/world</string>
+
+    <!--Label for order by theme sport[CHAR LIMIT=20]-->
+    <string name="setting_order_by_tag_sport_label">Sport</string>
+    <string name="setting_order_by_tag_sport_value" translatable="false">sport/sport</string>
+
+    <!--Label for order by theme football[CHAR LIMIT=20]-->
+    <string name="setting_order_by_tag_football_label">Football</string>
+    <string name="setting_order_by_tag_football_value" translatable="false">football/football</string>
+
+    <!--Label for order by theme opinion[CHAR LIMIT=20]-->
+    <string name="setting_order_by_tag_opinion_label">Opinion</string>
+    <string name="setting_order_by_tag_opinion_value" translatable="false">opinion/opinion</string>
+
+    <!--Label for order by theme culture[CHAR LIMIT=20]-->
+    <string name="setting_order_by_tag_culture_label">Culture</string>
+    <string name="setting_order_by_tag_culture_value" translatable="false">culture/culture</string>
+
+    <!--Label for order by themse business[CHAR LIMIT=20]-->
+    <string name="setting_order_by_tag_business_label">Business</string>
+    <string name="setting_order_by_tag_business_value" translatable="false">business/business</string>
+
+    <!--Label for order by theme fashion[CHAR LIMIT=20]-->
+    <string name="setting_order_by_tag_fashion_label">Fashion</string>
+    <string name="setting_order_by_tag_fashion_value" translatable="false">fashion/fashion</string>
+
+    <!--Label for order by theme environment[CHAR LIMIT=20]-->
+    <string name="setting_order_by_tag_environment_label">Environment</string>
+    <string name="setting_order_by_tag_environment_value" translatable="false">environment/environment</string>
+
+    <!--Label for order by theme tech[CHAR LIMIT=20]-->
+    <string name="setting_order_by_tag_tech_label">Technology</string>
+    <string name="setting_order_by_tag_tech_value" translatable="false">technology/technology</string>
+
+    <!--Label for order by theme travel[CHAR LIMIT=20]-->
+    <string name="setting_order_by_tag_travel_label">World</string>
+    <string name="setting_order_by_tag_travel_value" translatable="false">travel/travel</string>
+
+</resources>

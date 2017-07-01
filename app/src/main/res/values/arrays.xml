@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/setting_order_by_tag_world_label</item>
+        <item>@string/setting_order_by_tag_sport_label</item>
+        <item>@string/setting_order_by_tag_business_label</item>
+        <item>@string/setting_order_by_tag_culture_label</item>
+        <item>@string/setting_order_by_tag_environment_label</item>
+        <item>@string/setting_order_by_tag_fashion_label</item>
+        <item>@string/setting_order_by_tag_football_label</item>
+        <item>@string/setting_order_by_tag_tech_label</item>
+        <item>@string/setting_order_by_tag_opinion_label</item>
+        <item>@string/setting_order_by_tag_travel_value</item>
+
+
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/setting_order_by_tag_world_value</item>
+        <item>@string/setting_order_by_tag_sport_value</item>
+        <item>@string/setting_order_by_tag_business_value</item>
+        <item>@string/setting_order_by_tag_culture_value</item>
+        <item>@string/setting_order_by_tag_environment_value</item>
+        <item>@string/setting_order_by_tag_fashion_value</item>
+        <item>@string/setting_order_by_tag_football_value</item>
+        <item>@string/setting_order_by_tag_tech_value</item>
+        <item>@string/setting_order_by_tag_opinion_value</item>
+        <item>@string/setting_order_by_tag_travel_value</item>
+
+    </string-array>
+</resources>

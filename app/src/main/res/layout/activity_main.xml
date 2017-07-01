@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.vladasverkelis.newsapp.NewsActivity">
+
+    <!--World articles-->
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/category_world">
+    <TextView
+        android:id="@+id/world"
+        style="@style/CategoryStyle"
+        android:background="?android:attr/selectableItemBackground"
+        android:text="World"/>
+</FrameLayout>
+
+    <!--Sport articles-->
+<FrameLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:background="@color/category_sport">
+<TextView
+    android:id="@+id/sport"
+    style="@style/CategoryStyle"
+    android:background="?android:attr/selectableItemBackground"
+    android:text="Sport"/>
+</FrameLayout>
+    </LinearLayout>

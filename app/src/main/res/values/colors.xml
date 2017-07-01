@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkBlue">#FF0099CC</color>
+    <!--Background color for the world articles category-->
+    <color name="category_world">#16AFCA</color>
+    <!--Background color for the sport articles category-->
+    <color name="category_sport">#FF99CC00</color>
+    <!--Background color for app-->
+    <color name="tan_background">#FFF7DA</color>
+</resources>
